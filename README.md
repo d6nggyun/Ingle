@@ -9,6 +9,7 @@
 <br><br>
 
 # 아키텍처
+<img width="1345" height="968" alt="Component 7" src="https://github.com/user-attachments/assets/2faad07f-2602-43fb-8be1-29ab22a7d349" />
 
 ---
 
