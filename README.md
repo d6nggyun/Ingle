@@ -8,11 +8,6 @@
 
 <br><br>
 
----
-<img width="1170" height="2007" alt="image" src="https://github.com/user-attachments/assets/478e8b73-0d72-44cd-bd42-f30f9b631f8c" />
-
-<br>
-
 # 아키텍처
 
 ---
